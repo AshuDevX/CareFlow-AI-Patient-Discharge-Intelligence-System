@@ -1,4 +1,4 @@
-# 🧠 Patient Discharge Intelligence System
+#  Patient Discharge Intelligence System
 
 An AI-powered, full-stack healthcare intelligence platform that predicts and evaluates patient discharge readiness using a **multi-agent architecture**, **RAG (Retrieval-Augmented Generation)**, and **real-time updates**.
 
